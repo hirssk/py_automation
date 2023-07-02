@@ -1,0 +1,22 @@
+[
+  {
+    "name": "name1",
+    "age": 13,
+    "favorite_sports": "baseball"
+  },
+  {
+    "name": "name2",
+    "age": 17,
+    "favorite_sports": "dance"
+  },
+  {
+    "name": "name3",
+    "age": 21,
+    "favorite_sports": "golf"
+  },
+  {
+    "name": "name4",
+    "age": 22,
+    "favorite_sports": "soccer"
+  }
+]
